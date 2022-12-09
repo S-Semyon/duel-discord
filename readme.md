@@ -3,4 +3,4 @@ Russian bot
 Discord developer: https://discord.dev
 ### Install:
 - pip install -r requirements.txt
-- edit file **secret.py**, past your token
+- edit file **secret.py**, enter your token
