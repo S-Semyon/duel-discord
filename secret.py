@@ -1,1 +1,1 @@
-TOKEN = "past your token here"
+TOKEN = "enter your token here"
